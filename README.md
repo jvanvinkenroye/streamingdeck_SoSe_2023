@@ -2,6 +2,7 @@
 ## Vorbereitung / Software
 * In Tinkercad einloggen: https://www.tinkercad.com/dashboard
 * PrusaSlicer laden https://www.prusa3d.com/de/page/prusaslicer_424/
+* Link zur Klasse
 
 ## Anleitung
 1. Kopieren des Designs (danach bei eigenen Projekten zu finden)
@@ -30,6 +31,7 @@
 # Tastatur programmieren
 ## Vorbereitung / Software
 * Thonny herunterladen: https://thonny.org
+* Circuitpython laden: https://downloads.circuitpython.org/bin/raspberry_pi_pico/de_DE/adafruit-circuitpython-raspberry_pi_pico-de_DE-8.0.4.uf2
 
 ## Anleitung
 1. Raspberry Pi im Dropdown-Menü wählen
